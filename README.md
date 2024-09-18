@@ -1,4 +1,3 @@
-# 354essays
 
 .ve-header "Mary Cassatt and the 19th Century Woman" wc:Mary_Cassatt_-_The_Boating_Party_-_Google_Art_Project.jpg
 
