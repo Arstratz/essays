@@ -1,10 +1,3 @@
- cannot get my annotations to stay on the image. Until I figure it out, here are my annotations: 
-1. Cassatt shows the woman’s reflection but not her face. This allows for the audience to view themselves in her, creating a more relatable piece. 
-2.The woman is naked from the waist up. This emphasized the intimacy and privacy of this scene. 
-3.Simplified linework in the dress patterns allow for colors to define shapes. This is popular in the Japanese woodblock printing style 
-4.The pattern on this carpet mimics the highly detailed fabrics shown in Japanese art. This clashing of patterns is common within Japanese woodblock printing 
-5.The position of this vase gives the audience a slightly off-kilter point of view. Many 19th century Japanese artists enjoyed experimenting with different viewpoints in their pieces, further emphasizing Cassat’s Japanese influence
-Cassatt shows the woman’s reflection but not her face. This allows for the audience to view themselves in her, creating a more relatable piece. 
 .ve-header "Mary Cassatt and the 19th Century Woman" wc:Mary_Cassatt_-_The_Boating_Party_-_Google_Art_Project.jpg
 
 ==Mary Cassatt=={Q173223} was a 19th Century ==impressionist=={Q40415} artist who specialized in depicting the everyday lives of the modern woman. By finding beauty in the mundane, Cassatt is able to document what it was truly like to be a woman during this time.  
