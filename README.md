@@ -5,10 +5,16 @@
 
 #Womanhood and Woodblock 
 
-.ve-media https://api.artic.edu/api/v1/artworks/13506/manifest.json
+.ve-media https://api.artic.edu/api/v1/artworks/13506/manifest.json right
+ 
+**Notice! **
+1. Cassatt shows the reflection of the woman in the mirror but obscures her face. This allows for the audience to see themselves in the painting, creating a more personal viewing experience 
+2.  The woman is shown naked from the waist up. This is done to emphasize the intimacy and privacy of this scene.
+3.  Simplified linework in the dress patterns allow for colors to define shapes. This is popular in the Japanese woodblock printing style. In this style, each color is printed over each other to create a whole image. The artist must be careful not to layer two colors to prevent the colors smudging. The more complicated the pattern, the more skilled the artist!
+4.  The pattern on this carpet mimics the highly detailed fabrics shown in Japanese art. This clashing of patterns is also common within Japanese woodblock printing  
+5.  The position of this vase gives the audience a slightly off-kilter point of view. Many 19th century Japanese artists enjoyed experimenting with different viewpoints in their pieces, further emphasizing Cassat’s Japanese influence 
 
-    - https://api.artic.edu/api/v1/artworks/13506/manifest.json Cassatt shows the reflection of the woman in the mirror but obscures her face. This allows for the audience to see themselves in the painting, creating a more personal viewing experience 
-    
+
 
 Mary Cassatt's work focused on capturing the realities of women in the 19th century by depicting intimate moments of their lives. Cassatt was also greatly inspired by ==Japanese Woodblock prints=={Q1192525} [^1]. This piece captures both sentimates in its design. In this print, *Woman Bathing* , currently housed at the [Art Institute of Chicago](https://www.artic.edu/), shows a woman washing her face at her vanity, her dress unbuttoned to reveal her bare back. This signifies a completely private moment where this woman is allowed to take care of only herself. The design of the wash basin and wardrobe dates this piece, making the 1890-91 date given to the print unsurprising to modern audiences. The retro stylings of the room, the garb of the woman, and dated wash basin all work to show the world of the average 20th century woman. 
 
